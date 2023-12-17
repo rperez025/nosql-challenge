@@ -11,16 +11,16 @@ With this challenge, I've been contracted by the editors of a food magazine, Eat
 
 Used NoSQL_setup_starter.ipynb for this section of the challenge.
 
-1. Import the data provided in the establishments.json file from your Terminal. Name the database uk_food and the collection establishments. Copy the text you used to import your data from your Terminal to a markdown cell in your notebook.
-2. Within your notebook, import the libraries you need: PyMongo and Pretty Print (pprint).
-3. Create an instance of the Mongo Client.
-4. Confirm that you created the database and loaded the data properly:
-   * List the databases you have in MongoDB. Confirm that uk_food is listed.
-   * List the collection(s) in the database to ensure that establishments is there.
-   * Find and display one document in the establishments collection using find_one and display with pprint.
-5. Assign the establishments collection to a variable to prepare the collection for use.
+  1. Imported the data provided in the establishments.json file from my Terminal. Named the database uk_food and the collection establishments. Copied the text I used to import your data from my Terminal to a markdown cell in my notebook.
+  2. Within your notebook, import the libraries you need: PyMongo and Pretty Print (pprint).
+  3. Create an instance of the Mongo Client.
+  4. Confirm that you created the database and loaded the data properly:
+     * List the databases you have in MongoDB. Confirm that uk_food is listed.
+     * List the collection(s) in the database to ensure that establishments is there.
+     * Find and display one document in the establishments collection using find_one and display with pprint.
+  5. Assign the establishments collection to a variable to prepare the collection for use.
 
-**2. Scraped and Analyzed Mars Weather Data**
+**Scraped and Analyzed Mars Weather Data**
 
 a. Used automated browsing to visit the [Mars Temperature Data Site](https://static.bc-edx.com/data/web/mars_facts/temperature.html).
 
