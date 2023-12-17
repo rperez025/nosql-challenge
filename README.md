@@ -68,15 +68,15 @@ During the challenge, I referenced the following to aid in my understanding and 
   
 2. Research reference:
    [What's the canonical way to check for type in Python?](https://stackoverflow.com/questions/152580/whats-the-canonical-way-to-check-for-type-in-python/57099789#57099789)
-	
-	Used the following in In [21] in NoSQL_setup_starter file: 
-	You can check for type of a variable using __name__ of a type.
-	Ex:
-	>>> a = [1,2,3,4]  
->>> b = 1>>> type(a).__name__
-'list'
-	>>> type(a).__name__ == 'list'
-	True>>> type(b).__name__ == 'list'
-	False>>> type(b).__name__
-'int'
-![image](https://github.com/rperez025/nosql-challenge/assets/144635481/fcec9531-b77e-4958-99c7-72a23eef44c1)
+
+   Used the following in In [21] in NoSQL_setup_starter file:
+   You can check for type of a variable using __name__ of a type.
+   Ex:
+   >>> a = [1,2,3,4]
+   >>> b = 1>>> type(a).__name__
+   'list'
+   >>> type(a).__name__ == 'list'
+   True>>> type(b).__name__ == 'list'
+   False>>> type(b).__name__
+   'int'
+
