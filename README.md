@@ -70,6 +70,7 @@ During the challenge, I referenced the following to aid in my understanding and 
    * [NoSQL Day 02 - Activity 06 - Air Fields (Demo)](https://youtu.be/9c9F6cP74wg)
    * [NoSQL Day 02 - Activity 08 - Find Pets (Demo)](https://youtu.be/bKnCmHFGN5s)
    * [NoSQL Day 02 - Activity 10 - Sort and Limit Pets (Demo)](https://youtu.be/e5ymqICA2BA)
+   * [NoSQL Day 03 - Activity 08 - Mini-Project Part 3 (Demo)](https://youtu.be/SdxpC7nT1hM)
   
 4. Research reference:
    [What's the canonical way to check for type in Python?](https://stackoverflow.com/questions/152580/whats-the-canonical-way-to-check-for-type-in-python/57099789#57099789)
