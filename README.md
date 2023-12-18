@@ -65,8 +65,13 @@ Used NoSQL_setup_starter.ipynb for this section of the challenge.
 During the challenge, I referenced the following to aid in my understanding and completion of the assignment:
 
 1. Reviewed and reperformed a majority of the class activities in my GitLab Working Folder.
+
+2. Reviewed the following instructor videos from Dr. A:
+   * [NoSQL Day 02 - Activity 06 - Air Fields (Demo)](https://youtu.be/9c9F6cP74wg)
+   * [NoSQL Day 02 - Activity 08 - Find Pets (Demo)](https://youtu.be/bKnCmHFGN5s)
+   * [NoSQL Day 02 - Activity 10 - Sort and Limit Pets (Demo)](https://youtu.be/e5ymqICA2BA)
   
-2. Research reference:
+4. Research reference:
    [What's the canonical way to check for type in Python?](https://stackoverflow.com/questions/152580/whats-the-canonical-way-to-check-for-type-in-python/57099789#57099789)
 
    Used the following in In [21] in NoSQL_setup_starter file:
