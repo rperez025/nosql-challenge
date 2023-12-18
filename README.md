@@ -107,4 +107,6 @@ During the challenge, I referenced the following to aid in my understanding and 
    False>>> type(b).__name__
    'int'
 
-4. 
+4. I also used the following code as reference for performing my assignment. Specifically, I would review the code and gain an understanding of its organization and use. I would then take that understanding and incorporate my knowledge and practice from the class activities and instructor videos to write my script included [NoSQL_setup_starter.ipynb](https://github.com/rperez025/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb) and [NoSQL_analysis_starter.ipynb](https://github.com/rperez025/nosql-challenge/blob/main/NoSQL_analysis_starter.ipynb).
+   * [yeyanwang/nosql-challenge](https://github.com/yeyanwang/nosql-challenge/blob/main/NoSQL_setup.ipynb)
+
