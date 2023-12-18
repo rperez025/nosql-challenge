@@ -53,12 +53,19 @@ Used NoSQL_setup_starter.ipynb for this section of the challenge.
     "NewRatingPending":True
 }
 
-  2. Find the BusinessTypeID for "Restaurant/Cafe/Canteen" and return only the BusinessTypeID and BusinessType fields.
-  3. Update the new restaurant with the BusinessTypeID you found.
-  4. The magazine is not interested in any establishments in Dover, so check how many documents contain the Dover Local Authority. Then, remove any establishments within the Dover Local Authority from the database, and check the number of documents to ensure they were deleted.
+  2. Found the BusinessTypeID for "Restaurant/Cafe/Canteen" and returned only the BusinessTypeID and BusinessType fields.
+  3. Updated the new restaurant with the BusinessTypeID you found.
+  4. The magazine is not interested in any establishments in Dover, so checked how many documents contain the Dover Local Authority. Then, removed any establishments within the Dover Local Authority from the database, and checked the number of documents to ensure they were deleted.
   5. Some of the number values are stored as strings, when they should be stored as numbers.
-     * Use update_many to convert latitude and longitude to decimal numbers.
-     * Use update_many to convert RatingValue to integer numbers.
+     * Used update_many to convert latitude and longitude to decimal numbers.
+     * Used update_many to convert RatingValue to integer numbers.
+
+**Exploratory Analysis**
+
+Eat Safe, Love has specific questions they want me to answer, which will helped them find the locations they wish to visit and avoid.
+
+I use NoSQL_analysis_starter.ipynb for this section of the challenge.
+
 
 **RESOURCES AND REFERENCES**
 
@@ -72,7 +79,7 @@ During the challenge, I referenced the following to aid in my understanding and 
    * [NoSQL Day 02 - Activity 10 - Sort and Limit Pets (Demo)](https://youtu.be/e5ymqICA2BA)
    * [NoSQL Day 03 - Activity 08 - Mini-Project Part 3 (Demo)](https://youtu.be/SdxpC7nT1hM)
   
-4. Research reference:
+3. Research reference:
    [What's the canonical way to check for type in Python?](https://stackoverflow.com/questions/152580/whats-the-canonical-way-to-check-for-type-in-python/57099789#57099789)
 
    Used the following in In [21] in NoSQL_setup_starter file:
@@ -86,3 +93,4 @@ During the challenge, I referenced the following to aid in my understanding and 
    False>>> type(b).__name__
    'int'
 
+4. 
